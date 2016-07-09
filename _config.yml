@@ -6,9 +6,9 @@ color:
   saturation: 0.3533268580213189
   rhythmicContrast: 0.40813451376743615
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Winter Castle Windows & Doors
